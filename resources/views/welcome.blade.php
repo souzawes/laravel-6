@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel rodou caralho!
+                    Laravel rodou e agora commitou!
                 </div>
 
                 <div class="links">
